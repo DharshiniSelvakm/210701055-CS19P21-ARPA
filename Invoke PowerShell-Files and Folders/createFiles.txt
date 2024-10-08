@@ -1,0 +1,7 @@
+New-Item -Path . -Name "first.txt" -ItemType "file" -Value "This is the content of first file"
+
+New-Item -Path . -Name "second.txt" -ItemType "file" -Value "This is the content of second file"
+
+New-Item -Path . -Name "third.txt" -ItemType "file" -Value "This is the content of third file"
+
+New-Item -Path . -Name "fourth.txt" -ItemType "file" -Value "This is the content of fourth file"
